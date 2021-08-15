@@ -5,4 +5,4 @@
 
 
 
-#EnN#  I made a very very basic level theremin on arduino.
+#EN#  I made a very very basic level theremin on arduino.
